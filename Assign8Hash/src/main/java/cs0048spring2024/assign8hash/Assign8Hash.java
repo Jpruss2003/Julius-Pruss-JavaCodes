@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Julius Pruss
+ * @author juliuspruss
  */
 public class Assign8Hash {
     public static void main(String[] args) {
